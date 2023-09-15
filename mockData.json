@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Conference 2023",
+    "date": "2023-10-15",
+    "month": "October",
+    "year": "2023",
+    "state": "CA",
+    "description": "A conference focusing on emerging technologies.",
+    "image": "/images/tech-conference.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Fitness Expo",
+    "date": "2023-11-03",
+    "month": "November",
+    "year": "2023",
+    "state": "NY",
+    "description": "An expo for fitness enthusiasts.",
+    "image": "/images/fitness-expo.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Music Festival",
+    "date": "2023-11-25",
+    "month": "November",
+    "year": "2023",
+    "state": "TX",
+    "description": "A festival featuring various music genres.",
+    "image": "/images/music-festival.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Art Gala",
+    "date": "2023-12-12",
+    "month": "December",
+    "year": "2023",
+    "state": "CA",
+    "description": "A gala to celebrate and showcase upcoming artists.",
+    "image": "/images/art-gala.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Coding Bootcamp",
+    "date": "2023-10-05",
+    "month": "October",
+    "year": "2023",
+    "state": "NY",
+    "description": "A bootcamp to kickstart your coding career.",
+    "image": "/images/coding-bootcamp.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Philosophy Symposium",
+    "date": "2023-12-20",
+    "month": "December",
+    "year": "2023",
+    "state": "TX",
+    "description": "A meeting ground for modern philosophers.",
+    "image": "/images/philosophy-symposium.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Food Truck Festival",
+    "date": "2023-10-18",
+    "month": "October",
+    "year": "2023",
+    "state": "CA",
+    "description": "A festival celebrating gourmet food trucks.",
+    "image": "/images/food-truck-festival.jpg"
+  },
+  {
+    "id": 8,
+    "title": "MMA Championship",
+    "date": "2023-11-10",
+    "month": "November",
+    "year": "2023",
+    "state": "TX",
+    "description": "The ultimate fighting championship event of the year.",
+    "image": "/images/mma-championship.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Gaming Expo",
+    "date": "2023-12-05",
+    "month": "December",
+    "year": "2023",
+    "state": "NY",
+    "description": "A meeting place for gamers and developers.",
+    "image": "/images/gaming-expo.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Spirituality Retreat",
+    "date": "2023-10-22",
+    "month": "October",
+    "year": "2023",
+    "state": "CA",
+    "description": "A retreat for spiritual enlightenment.",
+    "image": "/images/spirituality-retreat.jpg"
+  }
+]
